@@ -1,0 +1,107 @@
+{
+    "ModSettings": {
+        "always_include_hotbar": true,
+        "highlight_foused_items": {
+            "value": false
+        },
+        "enable_profiles": {
+            "value": false
+        },
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": {
+            "value": false
+        },
+        "enable_profiles_announcement": false,
+        "continuous_crafting_checkbox_value": "UNCHECKED",
+        "continuous_crafting_saved_value": false
+    },
+    "LockedSlotsSettings": {
+        "locked_slots_empty_hotbar_as_semi_locked": {
+            "value": false
+        }
+    },
+    "AutoRefillSettings": {
+        "refill_armor": {
+            "value": false
+        },
+        "refill_before_tool_break": {
+            "value": false
+        },
+        "tool_damage_threshold": 0,
+        "auto_refill_match_any_food": true
+    },
+    "Hotkeys": {
+        "open_config_menu": {
+            "main": {
+                "keys": "LEFT_ALT,C"
+            }
+        },
+        "reload_custom_configs": {
+            "main": {
+                "keys": "LEFT_ALT,Y"
+            }
+        },
+        "sort_inventory": {
+            "main": {
+                "keys": "SPACE"
+            }
+        },
+        "move_all_items": {
+            "main": {
+                "keys": "LEFT_ALT,T"
+            }
+        },
+        "throw_all_items": {
+            "main": {
+                "keys": "LEFT_ALT,M"
+            }
+        },
+        "open_gui_editor": {
+            "main": {
+                "keys": "LEFT_ALT,G"
+            }
+        },
+        "apply_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "next_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "prev_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_1": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_2": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_3": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "save_as_profile": {
+            "main": {
+                "keys": ""
+            }
+        }
+    },
+    "Tweaks": {
+        "prevent_close_gui_drop_item": {
+            "value": true
+        }
+    }
+}
